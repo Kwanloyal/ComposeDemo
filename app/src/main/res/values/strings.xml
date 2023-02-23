@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeDemo</string>
+    <string name="hello_world">Hello World%d!</string>
 </resources>
